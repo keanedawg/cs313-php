@@ -1,0 +1,152 @@
+body {
+  background-color: purple;
+  background-image: url("images\\background.jpg");
+}
+
+.answer {
+  text-align: left;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.answer2 {
+  text-align: text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.assignment_box {
+  border-style: solid;
+  border-radius: 10px;
+  display: inline-block;
+  height: 200px;
+  margin: 20px 30px 20px 30px;
+  width: 150px;
+}
+
+#assign_header {
+  border-bottom-style: double;
+  color: red;
+  font-size: 100px;
+  margin-bottom: 20px;
+}
+
+.assign_img {
+  display: block;
+  margin: 10px auto;
+  padding: 0px;
+}
+
+#assignment_frame {
+  border-style: solid;
+  height: 750px;
+  margin: auto;
+  width: 90% 
+}
+
+.assign_week {
+  display: block;
+  text-align: center;
+}
+
+.assign_title {
+  display: block;
+}
+
+#chicago {
+  width: 1000px;
+}
+
+#explanation {
+  border-bottom-style: solid;
+  border-bottom-color: red;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 20px;
+  margin: 100px auto;
+  width: 90%;
+}
+
+#forefront {
+  text-align: center;
+  background-color: white;
+  box-shadow: 5px -4px 5px 0px rgba(0,0,0,0.75);
+  color: black;
+  height: 1000px;
+  margin: auto;
+  margin-top: 4%;
+  padding-left: 1%;
+  padding-top: 1%;
+  position: relative;
+  text-align: center;
+  width: 1200px;
+}
+
+#forefront2 {
+  text-align: center;
+  background-color: white;
+  box-shadow: 5px -4px 5px 0px rgba(0,0,0,0.75);
+  color: black;
+  height: 1100px;
+  margin: auto;
+  margin-top: 4%;
+  padding-left: 1%;
+  padding-top: 1%;
+  position: relative;
+  text-align: center;
+  width: 1200px;
+}
+
+#intro {
+  
+}
+
+#intro p{
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+#navigator {
+  text-align: left;
+  border-bottom-style: double;
+  color: black;
+  padding-bottom: 5px;
+}
+
+#links {
+  color: blue;
+  overflow: hidden;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 20px;
+  list-style-type: circle;
+  text-align: left;
+}
+
+#links li {
+  margin-top: 60px;
+  margin-left: 20px;
+}
+
+#links-wrap {
+  border-left-style: double;
+  border-left-color: red;
+  margin-top: 100px;
+  margin-left: 60px;
+}
+
+.question {
+  text-decoration: underline;
+  text-align: left;
+}
+
+#portrait {
+  float: left;
+  margin-right: 1%;
+  margin-top: auto;
+  border-radius: 10px;
+  width: 720px;
+}
+
+#welcome {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 60px;
+}
+
