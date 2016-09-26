@@ -9,8 +9,9 @@ body {
 }
 
 .answer {
-  text-align: left;
   font-family: Verdana, Geneva, sans-serif;
+  margin-left: 1%;
+  text-align: left;
 }
 
 .answer2 {
@@ -77,7 +78,7 @@ body {
   height: 1000px;
   margin: auto;
   margin-top: 4%;
-  padding-left: 1%;
+  
   padding-top: 1%;
   position: relative;
   text-align: center;
@@ -89,10 +90,9 @@ body {
   background-color: white;
   box-shadow: 5px -4px 5px 0px rgba(0,0,0,0.75);
   color: black;
-  height: 1100px;
+  height: 1050px;
   margin: auto;
   margin-top: 4%;
-  padding-left: 1%;
   padding-top: 1%;
   position: relative;
   text-align: center;
@@ -121,6 +121,10 @@ body {
   padding-bottom: 5px;
 }
 
+#navigator a {
+  margin-left: 1%;
+}
+
 #links {
   color: blue;
   overflow: hidden;
@@ -132,7 +136,7 @@ body {
 
 #links li {
   margin-top: 60px;
-  margin-left: 20px;
+  margin-left: 30px;
 }
 
 #links-wrap {
@@ -145,12 +149,14 @@ body {
 .question {
   text-decoration: underline;
   text-align: left;
+  margin-left: 1%
 }
 
 #portrait {
   border-radius: 10px;
   float: left;
   height: 960x;
+  margin-left: 1%;
   margin-right: 1%;
   margin-top: auto;
   width: 720px;
