@@ -3,6 +3,11 @@ body {
   background-image: url("images\\background.jpg");
 }
 
+.arrow {
+  length: 10%;
+  width: 10%;
+}
+
 .answer {
   text-align: left;
   font-family: Verdana, Geneva, sans-serif;
@@ -61,7 +66,7 @@ body {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 20px;
   margin: 100px auto;
-  width: 90%;
+  ;
 }
 
 #forefront {
@@ -104,10 +109,15 @@ body {
   text-align: center;
 }
 
+#nav_arrows {
+  margin-top: 100px;
+}
+
 #navigator {
   text-align: left;
   border-bottom-style: double;
   color: black;
+  font-family: Tahoma, Geneva, sans-serif;
   padding-bottom: 5px;
 }
 
@@ -128,7 +138,7 @@ body {
 #links-wrap {
   border-left-style: double;
   border-left-color: red;
-  margin-top: 100px;
+  margin-top: 30px;
   margin-left: 60px;
 }
 
@@ -138,10 +148,17 @@ body {
 }
 
 #portrait {
+  border-radius: 10px;
   float: left;
+  height: 960x;
   margin-right: 1%;
   margin-top: auto;
-  border-radius: 10px;
+  width: 720px;
+}
+
+#photo_back {
+  float: left;
+  height: 100%;
   width: 720px;
 }
 

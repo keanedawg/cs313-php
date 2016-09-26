@@ -31,7 +31,7 @@ function choose_picture() {
   }
   else if(picID == 3) {
     document.getElementById("photo_back").innerHTML = "<img id=\"portrait\" src=\"images\\hi.jpg\">";
-    document.getElementById("explanation").innerHTML = "Me writing this website. BTW Hi Brother Lyon!";
+    document.getElementById("explanation").innerHTML = "Me writing this website. BTW Hi Brother Lyons!";
   }
   else if(picID == 4)  {
     document.getElementById("photo_back").innerHTML = "<img id=\"portrait\" src=\"images\\San_Francisco.jpg\">";
